@@ -6,8 +6,10 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://python.org)
 [![pygame](https://img.shields.io/badge/pygame-2.5%2B-2C8E3B?logo=python&logoColor=white)](https://pygame.org)
-[![Descargas](https://img.shields.io/badge/Descargas-Releases-181717?logo=github)](https://github.com/urreadiego0518-code/runner-matematico/releases/latest)
+[![Descargas](https://img.shields.io/github/downloads/urreadiego0518-code/runner-matematico/total?label=Descargas&logo=github&color=blue)](https://github.com/urreadiego0518-code/runner-matematico/releases/latest)
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-green.svg)](LICENSE)
+
+![Gameplay de Runner Matemático](docs/demo.gif)
 
 ---
 
